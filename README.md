@@ -76,7 +76,7 @@ Passionate about leveraging analytics and artificial intelligence to solve real-
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tata_GenAI_JobSimulation&show_icons=true&theme=github_dark)
 
 ---
 
