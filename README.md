@@ -83,5 +83,5 @@ Passionate about leveraging analytics and artificial intelligence to solve real-
 ## Connect
 
 LinkedIn: (www.linkedin.com/in/prajwalsortur)  
-GitHub: (Add your GitHub link)  
+GitHub: ((https://github.com/prajwalsortur))  
 Email: (prajwalsortur@gmail.com)
