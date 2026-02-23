@@ -25,15 +25,27 @@ Passionate about leveraging analytics and artificial intelligence to solve real-
 
 ## Business-Focused Projects
 
-### Academic Performance Analysis Dashboard (SQL)
-- Analyzed student performance data  
-- Used Joins, GROUP BY, HAVING, and Subqueries  
-- Generated department-wise insights and performance metrics  
+## 🎓 Academic Performance Analysis Dashboard  
+### SQL + Power BI Project
 
-### Employee Salary and Department Analysis (SQL)
-- Designed relational database  
-- Performed salary trend analysis  
-- Used aggregate functions for decision-making insights  
+## 📌 Project Overview
+
+- Developed an end-to-end Academic Performance Analysis Dashboard using SQL and Power BI.
+- Designed a relational database in MySQL to manage student, department, and marks data.
+- Applied advanced SQL concepts including JOINs, GROUP BY, HAVING, subqueries, and aggregate functions.
+- Generated department-wise and student-wise performance metrics.
+- Built an interactive Power BI dashboard with KPIs and dynamic filters.
+- Delivered actionable insights to support data-driven academic decision-making.
+
+## Employee Salary and Department Analysis (SQL)
+### 📌 Project Overview
+
+- Developed an Employee Salary and Department Analysis system using SQL.
+- Designed and implemented a relational database to manage employee and department data.
+- Performed salary trend analysis across departments and job roles.
+- Applied advanced SQL concepts including JOINs, GROUP BY, HAVING, and subqueries.
+- Used aggregate functions (SUM, AVG, MAX, MIN, COUNT) to generate performance insights.
+- Extracted actionable insights to support data-driven HR and compensation decisions.
 
 ### Sales Analysis Dashboard (Power BI / Tableau)
 - Built interactive dashboard with KPIs  
