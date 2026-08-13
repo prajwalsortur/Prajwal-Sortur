@@ -1,99 +1,115 @@
-<h1 align="center">Hi, I'm Prajwal Sortur</h1>
-<h3 align="center">Data Analyst | SQL | Power BI | Python | Turning Data into Insights</h3>
+# 👋 Hi, I'm Prajwal Sortur
+
+### Data Science | AI/ML | Data Analytics
+
+🎓 Bachelor of Engineering – Electronics & Communication Engineering  
+📍 Hubli, Karnataka, India
+
+I am a Data Science and AI/ML enthusiast interested in transforming data into meaningful insights and building practical machine learning solutions.
+
+I enjoy working with Python, SQL, data visualization, machine learning, and AI-based applications.
 
 ---
 
-## About Me
+## 🚀 Technical Skills
 
-Data-driven final-year engineering student with strong expertise in SQL, Python, Excel, Power BI, and Tableau.  
-Experienced in data cleaning, exploratory data analysis (EDA), and building interactive dashboards to generate actionable business insights.  
-Passionate about leveraging analytics and artificial intelligence to solve real-world problems and support data-driven decision-making.
+### Programming & Data Science
+- Python
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
----
+### Data Visualization
+- Power BI
+- Tableau
+- Excel
+- Plotly
 
-## Technical Skills
+### Machine Learning & AI
+- Machine Learning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Predictive Modeling
+- AI/ML Applications
+- Generative AI
 
-- SQL (DDL, DML, Joins, Subqueries, GROUP BY, HAVING)
-- Python (Pandas, NumPy, Matplotlib, Data Cleaning, EDA)
-- Excel (Pivot Tables, XLOOKUP, Data Analysis, Reporting)
-- Power BI (Data Modeling, DAX Basics, Interactive Dashboards)
-- Tableau (Data Visualization and Dashboard Creation)
-- Machine Learning Fundamentals
-- JSON and CSV Data Handling
-
----
-
-## Business-Focused Projects
-
-## 🎓 Academic Performance Analysis Dashboard  
-### SQL + Power BI Project
-
-## 📌 Project Overview
-
-- Developed an end-to-end Academic Performance Analysis Dashboard using SQL and Power BI.
-- Designed a relational database in MySQL to manage student, department, and marks data.
-- Applied advanced SQL concepts including JOINs, GROUP BY, HAVING, subqueries, and aggregate functions.
-- Generated department-wise and student-wise performance metrics.
-- Built an interactive Power BI dashboard with KPIs and dynamic filters.
-- Delivered actionable insights to support data-driven academic decision-making.
-
-## Employee Salary and Department Analysis (SQL)
-### 📌 Project Overview
-
-- Developed an Employee Salary and Department Analysis system using SQL.
-- Designed and implemented a relational database to manage employee and department data.
-- Performed salary trend analysis across departments and job roles.
-- Applied advanced SQL concepts including JOINs, GROUP BY, HAVING, and subqueries.
-- Used aggregate functions (SUM, AVG, MAX, MIN, COUNT) to generate performance insights.
-- Extracted actionable insights to support data-driven HR and compensation decisions.
-
-### Sales Analysis Dashboard (Power BI / Tableau)
-- Built interactive dashboard with KPIs  
-- Analyzed revenue trends, monthly growth, and profit margins  
-- Applied data transformation and cleaning techniques  
-
-### Python Data Analysis Project
-- Performed data cleaning and preprocessing  
-- Conducted exploratory data analysis  
-- Generated visual reports and business insights  
+### Development & Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- MySQL Workbench
+- Streamlit
 
 ---
 
-## Key Achievements
+## 📊 Featured Projects
 
-- Solved 100+ SQL practice queries  
-- Built multiple interactive dashboards using Power BI and Tableau  
-- Analyzed datasets containing 10,000+ records  
-- Applied analytics techniques during internship for reporting and insights  
+### 🍽️ Food Waste Analytics & Management System
+**Python | Pandas | Plotly | Streamlit | Machine Learning | GenAI**
+
+- Developed an analytics system for understanding and reducing food waste.
+- Built an interactive Streamlit dashboard with KPIs, filters, and visualizations.
+- Performed data preprocessing, feature engineering, and exploratory data analysis.
+- Designed a GenAI layer to provide natural-language insights from the analyzed data.
+
+### 🛒 E-Commerce Sales & Customer Behaviour Analytics
+**Python | SQL | Pandas | Power BI | Excel**
+
+- Analyzed e-commerce sales and customer transaction data.
+- Performed data cleaning and exploratory analysis using Python and Pandas.
+- Used SQL for business-oriented data analysis.
+- Created an interactive Power BI dashboard to visualize sales, products, regions, and customer behaviour.
+
+### 🎓 Academic Performance Analysis
+**SQL | MySQL | Power BI**
+
+- Analyzed academic performance data using SQL.
+- Created queries to identify performance trends and important metrics.
+- Designed dashboards for easier interpretation of academic data.
+
+### 👨‍💼 Employee Salary & Department Analysis
+**SQL | MySQL**
+
+- Analyzed employee salary and department-level information.
+- Used SQL queries for aggregation, filtering, grouping, and analysis.
+- Extracted meaningful business insights from employee data.
 
 ---
 
-## Internship Experience
+## 💼 Internship Experience
 
-### Data Analyst Intern
-- Executed complex SQL queries for reporting  
-- Cleaned and transformed data using Excel and Python  
-- Developed dashboards for business insights  
-- Assisted in data-driven decision-making processes  
+### Applied AI Intern
+**Gleamator Technologies LLP**
 
-### Applied Artificial Intelligence Intern
-- Used SQL for data extraction and structured data analysis  
-- Performed data preprocessing and analysis using Python (Pandas, NumPy)  
-- Built interactive dashboards in Power BI to visualize AI-related insights  
-- Assisted in applying analytical techniques to support AI-driven solutions  
-- Contributed to data preparation and reporting for model-based projects  
-  
+Worked on practical projects involving:
 
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tata_GenAI_JobSimulation&show_icons=true&theme=github_dark)
+- Python programming
+- SQL
+- Data Analysis
+- Exploratory Data Analysis
+- Power BI
+- Machine Learning
+- AI/ML applications
+- Data visualization
 
 ---
 
-## Connect
+## 📚 Certifications & Learning
 
-LinkedIn: (www.linkedin.com/in/prajwalsortur)  
-GitHub: ((https://github.com/prajwalsortur))  
-Email: (prajwalsortur@gmail.com)
+- IBM Data Science Professional Certificate – Coursera
+- Oracle Cloud Infrastructure AI / Agentic AI learning
+- Data Science & AI/ML related courses and projects
+
+---
+
+## 🛠️ Tools I Work With
+
+```text
+Python       SQL          Pandas       NumPy
+Power BI     Tableau      Excel        Matplotlib
+Seaborn      Plotly       Scikit-learn Streamlit
+Git          GitHub       MySQL        VS Code
