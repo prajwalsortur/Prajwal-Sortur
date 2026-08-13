@@ -1,19 +1,30 @@
 # 👋 Hi, I'm Prajwal Sortur
 
-### Data Science | AI/ML | Data Analytics
+### Data Science • AI/ML • Generative AI • Data Analytics
 
-🎓 Bachelor of Engineering – Electronics & Communication Engineering  
-📍 Hubli, Karnataka, India
+> **Turning raw data into insights, insights into intelligence, and ideas into real-world solutions.**
 
-I am a Data Science and AI/ML enthusiast interested in transforming data into meaningful insights and building practical machine learning solutions.
+I'm a **Bachelor of Engineering graduate in Electronics & Communication Engineering** with a strong interest in **Data Science, Artificial Intelligence, Machine Learning, Generative AI, and Data Analytics**.
 
-I enjoy working with Python, SQL, data visualization, machine learning, and AI-based applications.
+I build practical, end-to-end projects using **Python, SQL, Machine Learning, Data Visualization, and AI technologies**, with a focus on solving real-world problems.
 
 ---
 
-## 🚀 Technical Skills
+## 🧠 About Me
 
-### Programming & Data Science
+- 🎓 B.E. Graduate in Electronics & Communication EngineeringL
+- 🤖 Building skills in Machine Learning and Artificial Intelligence
+- 🧠 Exploring Generative AI, LLMs, and AI Agents
+- 🌐 Building interactive applications using Streamlit
+- 🛠️ Using Git and GitHub for version control and project management
+- 🚀 Focused on building practical, portfolio-ready projects
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming & Data Science
+
 - Python
 - SQL
 - Pandas
@@ -22,94 +33,152 @@ I enjoy working with Python, SQL, data visualization, machine learning, and AI-b
 - Seaborn
 - Scikit-learn
 
-### Data Visualization
+### 🤖 Artificial Intelligence & Machine Learning
+
+- Machine Learning
+- Exploratory Data Analysis
+- Data Preprocessing
+- Feature Engineering
+- Predictive Modeling
+- Artificial Intelligence
+- Generative AI
+- LLM Applications
+- AI Agents
+
+### 📊 Data Visualization & Business Intelligence
+
 - Power BI
 - Tableau
 - Excel
 - Plotly
+- Matplotlib
+- Seaborn
+- KPI Dashboards
+- Interactive Data Visualization
 
-### Machine Learning & AI
-- Machine Learning
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Predictive Modeling
-- AI/ML Applications
-- Generative AI
+### 🔧 Development & Tools
 
-### Development & Tools
 - Git
 - GitHub
 - VS Code
 - Jupyter Notebook
+- MySQL
 - MySQL Workbench
 - Streamlit
 
 ---
 
-## 📊 Featured Projects
+# 🚀 Featured Projects
 
-### 🍽️ Food Waste Analytics & Management System
-**Python | Pandas | Plotly | Streamlit | Machine Learning | GenAI**
+## 🍽️ Food Waste Analytics & Management System
 
-- Developed an analytics system for understanding and reducing food waste.
-- Built an interactive Streamlit dashboard with KPIs, filters, and visualizations.
-- Performed data preprocessing, feature engineering, and exploratory data analysis.
-- Designed a GenAI layer to provide natural-language insights from the analyzed data.
+**Python • Pandas • Plotly • Streamlit • Machine Learning • Generative AI**
 
-### 🛒 E-Commerce Sales & Customer Behaviour Analytics
-**Python | SQL | Pandas | Power BI | Excel**
+An end-to-end data-driven application designed to analyze restaurant food waste and support smarter waste-management decisions.
 
-- Analyzed e-commerce sales and customer transaction data.
-- Performed data cleaning and exploratory analysis using Python and Pandas.
-- Used SQL for business-oriented data analysis.
-- Created an interactive Power BI dashboard to visualize sales, products, regions, and customer behaviour.
+### Key Features
 
-### 🎓 Academic Performance Analysis
-**SQL | MySQL | Power BI**
+- 📊 Interactive Streamlit analytics dashboard
+- 🔍 Data cleaning and preprocessing
+- 📈 KPI and trend analysis
+- 📊 Interactive charts and visualizations
+- 🧠 Exploratory Data Analysis
+- 🤖 Machine Learning integration
+- 💬 Generative AI analytics layer
+- 🌐 User-friendly web interface
 
-- Analyzed academic performance data using SQL.
-- Created queries to identify performance trends and important metrics.
-- Designed dashboards for easier interpretation of academic data.
+**Project Flow:**
 
-### 👨‍💼 Employee Salary & Department Analysis
-**SQL | MySQL**
+`Data → Preprocessing → EDA → Feature Engineering → ML → GenAI → Dashboard → Insights`
 
-- Analyzed employee salary and department-level information.
-- Used SQL queries for aggregation, filtering, grouping, and analysis.
-- Extracted meaningful business insights from employee data.
+🔗 **[View Project Repository](#)**
 
 ---
 
-## 💼 Internship Experience
+## 🛒 E-Commerce Sales & Customer Behaviour Analytics
 
-### Applied AI Intern
-**Gleamator Technologies LLP**
+**Python • SQL • Pandas • Power BI • Excel**
 
-Worked on practical projects involving:
+An analytics project focused on understanding sales performance, customer behaviour, products, categories, and regional performance.
 
-- Python programming
-- SQL
-- Data Analysis
-- Exploratory Data Analysis
-- Power BI
-- Machine Learning
-- AI/ML applications
-- Data visualization
+### Key Features
+
+- 🧹 Data cleaning and transformation
+- 🐍 Python-based data analysis
+- 🗄️ SQL business analysis
+- 📈 Revenue and sales analysis
+- 🛍️ Product performance analysis
+- 🌍 Regional performance analysis
+- 📊 Power BI dashboard
+- 📌 Business KPIs and insights
+
+**Project Flow:**
+
+`Raw Data → Cleaning → SQL Analysis → EDA → Visualization → Business Insights`
+
+🔗 **[View Project Repository](#)**
 
 ---
 
-## 📚 Certifications & Learning
+## 🎓 Academic Performance Analysis Dashboard
 
-- IBM Data Science Professional Certificate – Coursera
-- Oracle Cloud Infrastructure AI / Agentic AI learning
-- Data Science & AI/ML related courses and projects
+**SQL • MySQL • Power BI**
+
+A data analytics project designed to analyze academic performance and present important metrics through an interactive dashboard.
+
+### Key Features
+
+- SQL-based data analysis
+- Student performance analysis
+- Aggregation and filtering
+- Performance comparison
+- KPI calculations
+- Interactive Power BI dashboard
+- Data-driven academic insights
+
+🔗 **[View Project Repository](#)**
 
 ---
 
-## 🛠️ Tools I Work With
+## 👨‍💼 Employee Salary & Department Analysis
+
+**SQL • MySQL**
+
+A SQL analytics project focused on analyzing employee salary information and department-level performance.
+
+### Key Features
+
+- Employee data analysis
+- Department-wise analysis
+- Average salary calculation
+- Highest and lowest salary analysis
+- Grouping and aggregation
+- Filtering and sorting
+- Business-oriented SQL queries
+
+🔗 **[View Project Repository](#)**
+
+---
+
+# 🏗️ My Project Development Approach
 
 ```text
-Python       SQL          Pandas       NumPy
-Power BI     Tableau      Excel        Matplotlib
-Seaborn      Plotly       Scikit-learn Streamlit
-Git          GitHub       MySQL        VS Code
+Real-World Problem
+        ↓
+Data Collection
+        ↓
+Data Cleaning
+        ↓
+Data Preprocessing
+        ↓
+Exploratory Data Analysis
+        ↓
+Feature Engineering
+        ↓
+Machine Learning
+        ↓
+AI / Generative AI
+        ↓
+Application / Dashboard
+        ↓
+Insights & Decision Making
