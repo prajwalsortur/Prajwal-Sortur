@@ -78,14 +78,6 @@ I enjoy building **end-to-end projects** that combine data, machine learning, AI
 
 ---
 
-# 🚀 Featured Projects
-
-## 🤖 AI-Powered Voice Portfolio Agent
-
-**React • Vite • FastAPI • Groq • AI • Speech Recognition • Speech Synthesis**
-
-An interactive portfolio website enhanced with an **AI-powered voice assistant** that allows visitors to interact with my portfolio using natural language and voice.
-
 ### Key Features
 
 * 🎙️ Voice-based interaction
