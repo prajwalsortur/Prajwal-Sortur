@@ -15,7 +15,6 @@ I enjoy building **end-to-end projects** that combine data, machine learning, AI
 * 🎓 B.E. Graduate in **Electronics & Communication Engineering**
 * 🤖 Focused on **Artificial Intelligence, Machine Learning & Data Science**
 * 🧠 Exploring **Generative AI, LLMs, RAG, LangChain & AI Agents**
-* 📊 Experienced with **Python, SQL, Data Analysis & Data Visualization**
 * 🚀 Building practical **AI-powered applications and portfolio projects**
 * 🌐 Developing interactive applications using **Streamlit and modern web technologies**
 * 🛠️ Using **Git & GitHub** for version control and project development
@@ -97,12 +96,6 @@ I enjoy building **end-to-end projects** that combine data, machine learning, AI
 🔗 **[View Project Repository](https://github.com/prajwalsortur/PORTFOLIO-AI-AGENT)**
 
 ---
-
-## 💰 Personal Finance Anomaly Detector
-
-**Python • Pandas • NumPy • Scikit-learn • Isolation Forest • Plotly • Streamlit • Generative AI**
-
-An end-to-end machine learning application designed to identify **unusual financial transactions** and provide interactive analytics.
 
 ### Key Features
 
