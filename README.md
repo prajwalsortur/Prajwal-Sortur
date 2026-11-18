@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prajwal Sortur
 
-### AI/ML • Data Science • Generative AI • LLMs 
+### AI/ML • Generative AI • LLMs 
 
 > **Building intelligent, data-driven solutions that turn real-world problems into practical applications.**
 
